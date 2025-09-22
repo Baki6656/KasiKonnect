@@ -1,5 +1,5 @@
 # KasiKonnect
-https://prod.liveshare.vsengsaas.visualstudio.com/join?EAAEA230F061F92F3A27ED567AFAB8CFC0F5
+https://prod.liveshare.vsengsaas.visualstudio.com/join?F74F82455B3DA1BE9061C2E75AEC5FD1F2EC
 1. Primary Brand Colors (from your logo):
 • KasiKonnect Blue (Primary Accent):
 • RGB: rgb(60, 190, 200)
